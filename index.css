@@ -1,0 +1,25 @@
+body{
+    background-color: gainsboro;
+    
+}
+ul {
+    list-style-position: inside;
+}
+ol{
+    list-style-position: inside;
+}
+.section-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.span-padding {
+    padding-right: 10px;
+}
+.title-bg{
+    background-color: chocolate;
+    display: inline-block;
+    border-radius: 10px;
+}
